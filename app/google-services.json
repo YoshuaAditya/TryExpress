@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564468556186",
+    "project_id": "tryexpress-1d6b6",
+    "storage_bucket": "tryexpress-1d6b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564468556186:android:b4902f7fb61f83d77dda23",
+        "android_client_info": {
+          "package_name": "com.trye.xpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564468556186-7o3fefmcvqlbini4fs5jfa3q7rukn7pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VH2yVzB9cCZ8YMkaz3hyOSJo1MSVbh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564468556186-7o3fefmcvqlbini4fs5jfa3q7rukn7pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
